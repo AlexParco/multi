@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{20B9C0DD-953B-4A56-937D-C50C5B8DB9D2}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.lab05.iOS FirstBuild="True" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.ItemProperties.lab05.Android PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab05/lab05/EditorCode.xaml.cs">
+    <Files>
+      <File FileName="lab05/lab05/MainPage.xaml" Line="24" Column="47" />
+      <File FileName="lab05/lab05/MainPage.xaml.cs" Line="58" Column="58" />
+      <File FileName="lab05/lab05/EditorCode.xaml" Line="5" Column="4" />
+      <File FileName="lab05/lab05/LabelCode.xaml" Line="1" Column="1" />
+      <File FileName="lab05/lab05/EditorCode.xaml.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab05" expanded="True">
+            <Node name="lab05" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="ButtonCode.xaml" expanded="True" />
+              <Node name="ButtonDemo.xaml" expanded="True" />
+              <Node name="DatePickerDemo.xaml" expanded="True" />
+              <Node name="EditorCode.xaml" expanded="True" />
+              <Node name="EditorDemo.xaml" expanded="True" />
+              <Node name="EntryCode.xaml" expanded="True" />
+              <Node name="EntryDemo.xaml" expanded="True" />
+              <Node name="LabelCode.xaml" expanded="True" />
+              <Node name="LabelDemo.xaml" expanded="True" />
+              <Node name="LocalImage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{03F6708F-4EBB-4C4C-BB76-2AA2DCDE26CA}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.lab06.Android PreferredExecutionTarget="Android.pixel_5_-_api_33" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.lab06.iOS FirstBuild="True" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.lab06 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab06/lab06/MainPage.xaml">
+    <Files>
+      <File FileName="lab06/lab06/MainPage.xaml.cs" />
+      <File FileName="lab06/lab06/MainPage.xaml" Line="8" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab06" expanded="True">
+            <Node name="lab06" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

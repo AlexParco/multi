@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<CarouselPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Lab04.CarouselPage1">
+    <ContentPage Title="Tab 1" >
+		<StackLayout>
+			<Label Text="Yellow" FontSize="Medium" HorizontalOptions="Center"/>
+		    <BoxView BackgroundColor="Yellow" VerticalOptions="CenterAndExpand"
+					 HorizontalOptions="Center" HeightRequest="200"
+		    />
+		</StackLayout>
+    </ContentPage>
+	<ContentPage>
+		<StackLayout>
+			<Label Text="Blue" FontSize="Medium" HorizontalOptions="Center"/>
+		    <BoxView BackgroundColor="Blue" VerticalOptions="CenterAndExpand"
+					 HorizontalOptions="Center" HeightRequest="200"
+		    />
+		</StackLayout>
+    </ContentPage>
+	<ContentPage>
+		<StackLayout>
+			<Label Text="Red" FontSize="Medium" HorizontalOptions="Center"/>
+		    <BoxView BackgroundColor="Red" VerticalOptions="CenterAndExpand"
+					 HorizontalOptions="Center" HeightRequest="200"
+		    />
+		</StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <Button Text="Close" x:Name="btnClose"/>
+    </ContentPage>
+</CarouselPage>
+

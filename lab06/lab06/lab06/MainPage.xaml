@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="lab06.MainPage">
+
+    <StackLayout>
+        <Button Text="Listar" Clicked="ButtonClicked"/>
+        <Button Text="Limpiar" Clicked="ButtonClicked2"/>
+    </StackLayout>
+
+</ContentPage>
+

@@ -1,0 +1,15 @@
+/Users/alex/Projects/AppTest1/AppTest1/bin/Debug/net7.0/AppTest1
+/Users/alex/Projects/AppTest1/AppTest1/bin/Debug/net7.0/AppTest1.deps.json
+/Users/alex/Projects/AppTest1/AppTest1/bin/Debug/net7.0/AppTest1.runtimeconfig.json
+/Users/alex/Projects/AppTest1/AppTest1/bin/Debug/net7.0/AppTest1.dll
+/Users/alex/Projects/AppTest1/AppTest1/bin/Debug/net7.0/AppTest1.pdb
+/Users/alex/Projects/AppTest1/AppTest1/obj/Debug/net7.0/AppTest1.csproj.AssemblyReference.cache
+/Users/alex/Projects/AppTest1/AppTest1/obj/Debug/net7.0/AppTest1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/AppTest1/AppTest1/obj/Debug/net7.0/AppTest1.AssemblyInfoInputs.cache
+/Users/alex/Projects/AppTest1/AppTest1/obj/Debug/net7.0/AppTest1.AssemblyInfo.cs
+/Users/alex/Projects/AppTest1/AppTest1/obj/Debug/net7.0/AppTest1.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/AppTest1/AppTest1/obj/Debug/net7.0/AppTest1.dll
+/Users/alex/Projects/AppTest1/AppTest1/obj/Debug/net7.0/refint/AppTest1.dll
+/Users/alex/Projects/AppTest1/AppTest1/obj/Debug/net7.0/AppTest1.pdb
+/Users/alex/Projects/AppTest1/AppTest1/obj/Debug/net7.0/AppTest1.genruntimeconfig.cache
+/Users/alex/Projects/AppTest1/AppTest1/obj/Debug/net7.0/ref/AppTest1.dll

@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{91E90DAC-D308-40FC-AC7E-41CC267A6C80}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab04/Lab04/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Lab04/Lab04/MainPage.xaml.cs" Line="29" Column="56" />
+      <File FileName="Lab04/Lab04/App.xaml" />
+      <File FileName="Lab04/Lab04/MyTabbedPage.xaml.cs" Line="1" Column="13" />
+      <File FileName="Lab04/Lab04/Page1.xaml.cs" Line="1" Column="1" />
+      <File FileName="Lab04/Lab04/Page1.xaml" Line="3" Column="16" />
+      <File FileName="Lab04/Lab04/CarouselPage1.xaml" Line="6" Column="17" />
+      <File FileName="Lab04/Lab04/ModalPage1.xaml" Line="12" Column="5" />
+      <File FileName="Lab04/Lab04/ModalPage1.xaml.cs" Line="15" Column="29" />
+      <File FileName="Lab04/Lab04/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab04" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="Lab04" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="CarouselPage1.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="ModalPage1.xaml" expanded="True" />
+              <Node name="MyTabbedPage.xaml" expanded="True" />
+              <Node name="Page1.xaml" expanded="True" />
+              <Node name="Page2.xaml" expanded="True" />
+            </Node>
+            <Node name="Lab04.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab04.Android PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lab04.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.Generic" />
+</Properties>
